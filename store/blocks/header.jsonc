@@ -29,7 +29,8 @@
     "header-row#notification": {
         "children": [
           "header-spacer",
-          "rich-text#header"
+          "rich-text#header",
+          "header-spacer"
         ]
       },
       "header-row#main":{
