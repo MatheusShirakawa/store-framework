@@ -53,7 +53,8 @@
           "logo",
           "header-spacer",
           "minicart",
-          "login"
+          "login",
+          "drawer"
         ],
       
         "props": {
